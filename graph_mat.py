@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import sqlite3
 # TODO add to main agenda.py
 
-SQLITE_FILE = 'Agenda_2023.db'
+SQLITE_FILE = 'Agenda_anal.db'
 
 titles_fontdict = {'family': 'serif',
         'color':  'black',
